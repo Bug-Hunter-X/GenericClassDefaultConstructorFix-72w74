@@ -1,0 +1,1 @@
+This repository contains a Scala code example demonstrating a potential ClassCastException in the default constructor of a generic class. The problem arises when attempting to assign null to a generic type parameter that might not be nullable.  The solution provides a safe alternative using an Option type.
